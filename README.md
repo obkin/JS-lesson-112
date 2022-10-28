@@ -1,3 +1,3 @@
 # JS animation & requestAnimationFrame
 
-It's my first JS animation lesson. 
+It's my first JS-animation lesson. 
